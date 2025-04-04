@@ -1,4 +1,4 @@
-# AnalisisDem_Churn_Telco
+# Efecto de las Características Demográficas en la Retención de Clientes
 ## Descripción
 Este proyecto se enfocó en encontrar cómo las características demográficas afectan la tasa de churn en una empresa de telecomunicaciones, usando análisis estadístico (EDA), modelado predictivo en Python y visualización de datos en Power BI.
 
